@@ -13,9 +13,9 @@ class App extends Component{
   render(){
     return(
       <View>
-        <Test>
+        <Text>
           hiii this is 2nd branchssss
-        </Test>
+        </Text>
       </View>
     )
   }
